@@ -129,7 +129,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 Thank you for exploring my Mutual Fund Analysis project!  
 I’m always open to suggestions, improvements, or collaboration ideas.
 
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📧 Or drop an email: **niravtrivedi069@gmail.com**
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/parth-goyal-88193a251/)  
+📧 Or drop an email: **parthskcg2@gmail.com**
 
 Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
