@@ -79,12 +79,6 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Mutual Fund Dashboard Preview](./Mutual%20Fund%20Dashboard%20.png)
-
----
-
 ### 🧠 Final Conclusion – See the Power of Investment
 
 Through this project and dashboard, you can clearly see the **power of investing in mutual funds** when guided by data-driven insights.
